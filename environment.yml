@@ -25,7 +25,9 @@ dependencies:
   - cffi=1.15.1=py310h5eee18b_2
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
   - colorama=0.4.6=pyhd8ed1ab_0
-  - cryptography=38.0.1=py310h9ce1e76_0
+  - cryptography
+  - tensorboard
+  - albumentations
   - cuda=11.6.2=0
   - cuda-cccl=11.6.55=hf6102b2_0
   - cuda-command-line-tools=11.6.2=0
@@ -276,4 +278,3 @@ dependencies:
   - zipp=3.11.0=pyhd8ed1ab_0
   - zlib=1.2.13=h166bdaf_4
   - zstd=1.5.2=ha4553b6_0
-prefix: /nas/homes/riccardo.corvi/envs/VIPCUP

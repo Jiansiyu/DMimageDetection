@@ -1,0 +1,10 @@
+tqdm
+numpy
+opencv_python
+scipy
+scikit-learn
+Pillow
+torch ~=1.13.0
+torchvision
+tensorboardX
+albumentations
